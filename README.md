@@ -1,0 +1,2 @@
+# TradingSystem
+Aloritm for trading
